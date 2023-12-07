@@ -1,4 +1,4 @@
-# subnet-group-generator
+# Aviatrix Subnet Group Generator
 
 ## Description
 
