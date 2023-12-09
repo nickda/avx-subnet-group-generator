@@ -45,3 +45,11 @@ key | value
 :--- | :---
 subnet_count | Number of subnets to create (default: 4)
 subnet_prefix_length | Prefix length of the subnets being created (default: 27)
+
+## Contributing
+
+Report issues/questions/feature requests on in the [issues](https://github.com/nickda/avx-subnet-group-generator/issues/new) section.
+
+## License
+
+Apache 2 Licensed. See [LICENSE](https://github.com/nickda/avx-subnet-group-generator/tree/master/LICENSE) for full details.
