@@ -2,7 +2,7 @@
 
 ## Description
 
-Given Aviatrix Spoke Gateway module name and Aviatrix Transit Gateway name, this module creates private subnets, Aviatrix subnet groups (with one subnet in each subnet group) and Firenet associations for the generated subnet groups.
+Given Aviatrix Spoke Gateway module name and Aviatrix Transit Gateway name, this module creates private subnets, [Aviatrix subnet groups](https://docs.aviatrix.com/previous/documentation/latest/deploying-secure-networks/deploy-azure-subnet-group-workflow.html) (with one subnet in each subnet group) and Firenet associations for the generated subnet groups.
 
 ## Usage Examples
 
